@@ -4,9 +4,9 @@
 4. JavaScript (beginner)
 5. 
  ```javascript
- var babai = `Ekarny Babai`
- alert(babai);
- Hi
+var babai = `Ekarny Babai`
+alert(babai);
+Hi
  ```
 6. Junior Dev
 7. Read some articles about programming
