@@ -1,1 +1,1 @@
-https://herabel.github.io/rsschool-cv
+https://herabel.github.io/rsschool-cv/cv
