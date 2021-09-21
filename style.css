@@ -1,17 +1,41 @@
 body {
-    background: rgb(0, 0, 0);
-    color: rgb(7, 207, 17);
+    background-image: url(https://i.pinimg.com/originals/84/86/25/848625a2ad471f8fac2b45d726511ce7.jpg);
+    color: rgb(0, 88, 139);
     font-family: Arial, sans-serif;
     font-size: 14px;
 }
 #content {
-    background: #b30246c0;
+    background: #645e5e52;
+    margin-top: 160px;
+    margin-left: 160px;
     float: left;
-    width: 100%;
+    width: 70%;
     height: 475px;
     text-align: center;
 }
-#ava{
-    display: block;
-    margin: 0 auto;
+#content h3 {
+    color: rgb(27, 140, 155);
+    text-shadow: 0px 0px 10px #c77c92;
 }
+.menu {
+    list-style-type: none;
+    margin: auto;
+    padding-left: 0;
+}
+.menu a { 
+    text-decoration: none;  
+    text-shadow: 0px 1px 1px #ffffff;
+    font-family: arial, sans-serif;
+    font-size: 15px;
+    color: #c77c92;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgba(255, 255, 255, 0.185);
+    border-bottom: 2px solid #5959d8;
+    border-right: 2px solid #5959d8;
+    border-left: 2px solid #5959d8;
+    border-radius: 7px;
+}
+.menu li {
+    float: left;
+  }
